@@ -1,8 +1,8 @@
 {
   "private": true,
   "name": "rkgttr-q",
-  "version": "0.0.3",
-  "description": "HTML Components builder.",
+  "version": "0.0.4",
+  "description": "DOM selector shortcuts.",
   "repository": "rkgttr/rkgttr-q",
   "author": "Erik Guittiere",
   "license": "MIT",
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.11.6",
-    "rkgttr-polyfills": "^0.0.2"
+    "rkgttr-arrayfrompolyfill": "^0.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",

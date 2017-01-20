@@ -6,7 +6,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/rkgttr/rkgttr-q.svg?style=flat-square)](https://coveralls.io/rkgttr/rkgttr-q)
 [![Dependency Status](http://img.shields.io/david/rkgttr/rkgttr-q.svg?style=flat-square)](https://david-dm.org/rkgttr/rkgttr-q)
 
-> HTML Components helpers, shamelessly inspired by https://github.com/davidgilbertson/know-it-all.
+> DOM elements selector shortcuts.
 
 ### How to Install
 

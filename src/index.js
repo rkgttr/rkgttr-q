@@ -6,7 +6,7 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE.txt file in the root directory of this source tree.
  */
-import {ArrayFromPolyfill} from 'rkgttr-polyfills';
+import {ArrayFromPolyfill} from 'rkgttr-arrayfrompolyfill';
 
 export function one(selector, parent = document) {
   return parent.querySelector(selector) || parent.createElement('div');
